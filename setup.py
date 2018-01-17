@@ -17,7 +17,7 @@ setup(
         'gq的工具'
     ),
     long_description=long_description,
-    author='codergaoqiang',
+    author='gaoqiang',
     author_email='gaoqiang1112@163.com',
     maintainer='gaoqiang',
     maintainer_email='gaoqiang1112@163.com',
