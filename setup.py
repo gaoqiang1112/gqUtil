@@ -1,7 +1,7 @@
 # coding:utf-8
 
 from setuptools import setup, find_packages
-import  io
+import io
 VERSION = '0.0.1'
 
 with io.open("README.rst", encoding='utf-8') as f:
