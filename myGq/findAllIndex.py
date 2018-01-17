@@ -9,4 +9,3 @@ def find_all_index(uString,target):
             break
         k.append(i)
     return k
-print find_all_index("abbbdd","d")
