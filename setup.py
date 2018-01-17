@@ -21,7 +21,7 @@ setup(
     author_email='gaoqiang1112@163.com',
     maintainer='gaoqiang',
     maintainer_email='gaoqiang1112@163.com',
-    license='MIT',
+    license='MIT License',
     packages=find_packages(),
     platforms=["all"],
     url='https://github.com/gaoqiang1112/gqUtil.git',
