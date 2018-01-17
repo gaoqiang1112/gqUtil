@@ -17,11 +17,11 @@ setup(
         'gq的工具'
     ),
     long_description=long_description,
-    author='gaoqiang',
+    author='codergaoqiang',
     author_email='gaoqiang1112@163.com',
     maintainer='gaoqiang',
     maintainer_email='gaoqiang1112@163.com',
-    license='MIT License',
+    license='MIT',
     packages=find_packages(),
     platforms=["all"],
     url='https://github.com/gaoqiang1112/gqUtil.git',
