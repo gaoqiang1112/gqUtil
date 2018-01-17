@@ -14,7 +14,7 @@ setup(
     name="gqUtil",
     version=VERSION,
     description=(
-        'gq的工具'
+        'myUtil'
     ),
     long_description=long_description,
     author='gaoqiang',
