@@ -13,9 +13,7 @@ install_requires = open("requirements.txt").readlines()
 setup(
     name="gqUtil",
     version=VERSION,
-    description=(
-        'myUtil'
-    ),
+    description='myUtil',
     long_description=long_description,
     author='gaoqiang',
     author_email='gaoqiang1112@163.com',
@@ -23,8 +21,19 @@ setup(
     maintainer_email='gaoqiang1112@163.com',
     license='MIT License',
     packages=find_packages(),
-    platforms=["all"],
     url='https://github.com/gaoqiang1112/gqUtil.git',
-    classifiers=[],
+    classifiers=[
+        "Environment :: Web Environment",
+        "Intended Audience :: Developers",
+        "Operating System :: OS Independent",
+        "Topic :: Text Processing :: Indexing",
+        "Topic :: Utilities",
+        "Topic :: Internet",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+        "Programming Language :: Python",
+        "Programming Language :: Python :: 2",
+        "Programming Language :: Python :: 2.6",
+        "Programming Language :: Python :: 2.7",
+    ],
     install_requires=install_requires,
 )
